@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+yfinance
+matplotlib
+scikit-learn
+xgboost
+plotly
+datetime
+seaborn
+RandomForestClassifier
